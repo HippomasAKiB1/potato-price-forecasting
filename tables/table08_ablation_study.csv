@@ -1,0 +1,6 @@
+Configuration,N Features,RMSE,MAE,MAPE (%),R²
+Price Lags Only,7,0.3619,0.2861,3.2656,0.8016
+Price + Production,8,0.3873,0.3098,3.5672,0.7729
+Price + Macro (no climate),11,0.3662,0.3015,3.411,0.7969
+Price + Climate (no macro),10,0.3904,0.3038,3.481,0.7691
+All Features (Full Model),18,0.4499,0.3588,4.0691,0.6935

@@ -1,0 +1,7 @@
+Feature,Best Lag (months),F-test p-value,Conclusion
+CPI All Items,1,0.0459,✅ Significant
+CPI Vegetables,1,0.1858,❌ Not Significant
+PPI Farm Products,5,0.0157,✅ Significant
+Temperature,4,0.0,✅ Significant
+Precipitation,6,0.0,✅ Significant
+Production,2,0.2212,❌ Not Significant

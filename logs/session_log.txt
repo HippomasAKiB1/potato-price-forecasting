@@ -1,0 +1,58 @@
+[2026-02-27 10:00:47] Session started
+[2026-02-27 10:01:05] Dataset loaded: (276, 11)
+[2026-02-27 10:01:10] Data validation: all checks passed
+[2026-02-27 10:01:22] Fig01 saved: price time series
+[2026-02-27 10:01:35] Fig02 saved: STL decomposition
+[2026-02-27 10:01:48] Fig03 saved: seasonal patterns
+[2026-02-27 10:02:02] Fig04 saved: correlation heatmap
+[2026-02-27 10:02:24] Fig05 saved: all features overview
+[2026-02-27 10:02:40] Table02 saved: stationarity tests
+[2026-02-27 10:02:56] Fig06 saved: ACF/PACF plots
+[2026-02-27 10:03:16] Table03 saved: Granger causality
+[2026-02-27 10:03:27] Feature engineering complete: 18 features, 264 rows
+[2026-02-27 10:03:38] Section 6 complete: data split ready
+[2026-02-27 10:04:11] ARIMA complete: RMSE=0.892
+[2026-02-27 10:04:46] SARIMA complete: RMSE=1.0325
+[2026-02-27 10:06:26] RF complete: RMSE=0.4694
+[2026-02-27 10:07:14] XGBoost complete: RMSE=0.4499
+[2026-02-27 10:08:54] LSTM training complete: 92 epochs
+[2026-02-27 10:10:16] LSTM complete: RMSE=0.7914
+[2026-02-27 10:12:38] Hybrid complete: RMSE=0.8858
+[2026-02-27 10:12:57] Model comparison complete. Best: XGBoost RMSE=0.4499
+[2026-02-27 10:13:33] Diebold-Mariano tests saved
+[2026-02-27 10:13:50] SHAP values computed and saved
+[2026-02-27 10:13:59] Fig15 saved: SHAP summary
+[2026-02-27 10:14:09] Fig16 saved: SHAP dependence
+[2026-02-27 10:14:26] Fig17 saved: seasonal SHAP + table07
+[2026-02-27 10:14:39] Ablation study complete: -24.3% gain
+[2026-02-27 10:14:45] Fig18 saved: ablation study
+[2026-02-27 10:15:03] Session complete — all files saved to Drive
+[2026-02-28 18:11:17] Session started
+[2026-02-28 18:11:18] Dataset loaded: (276, 11)
+[2026-02-28 18:11:18] Data validation: all checks passed
+[2026-02-28 18:11:20] Fig01 saved: price time series
+[2026-02-28 18:11:26] Fig02 saved: STL decomposition
+[2026-02-28 18:11:28] Fig03 saved: seasonal patterns
+[2026-02-28 18:11:31] Fig04 saved: correlation heatmap
+[2026-02-28 18:11:41] Fig05 saved: all features overview
+[2026-02-28 18:11:41] Table02 saved: stationarity tests
+[2026-02-28 18:11:44] Fig06 saved: ACF/PACF plots
+[2026-02-28 18:11:45] Table03 saved: Granger causality
+[2026-02-28 18:11:45] Feature engineering complete: 18 features, 264 rows
+[2026-02-28 18:11:47] Section 6 complete: data split ready
+[2026-02-28 18:12:13] ARIMA complete: RMSE=0.9413
+[2026-02-28 18:12:28] SARIMA complete: RMSE=1.0325
+[2026-02-28 18:13:44] RF complete: RMSE=0.4694
+[2026-02-28 18:14:14] XGBoost complete: RMSE=0.4499
+[2026-02-28 18:14:58] LSTM training complete: 133 epochs
+[2026-02-28 18:15:00] LSTM complete: RMSE=0.9359
+[2026-02-28 18:15:35] Hybrid complete: RMSE=0.926
+[2026-02-28 18:15:36] Model comparison complete. Best: XGBoost RMSE=0.4499
+[2026-02-28 18:15:40] Diebold-Mariano tests saved
+[2026-02-28 18:15:40] SHAP values computed and saved
+[2026-02-28 18:15:42] Fig15 saved: SHAP summary
+[2026-02-28 18:15:45] Fig16 saved: SHAP dependence
+[2026-02-28 18:15:47] Fig17 saved: seasonal SHAP + table07
+[2026-02-28 18:15:49] Ablation study complete: -24.3% gain
+[2026-02-28 18:15:49] Fig18 saved: ablation study
+[2026-02-28 18:15:50] Session complete — all files saved to Drive
